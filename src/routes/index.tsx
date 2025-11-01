@@ -12,6 +12,9 @@ function Index() {
 				<li>
 					<Link to="/about">About</Link>
 				</li>
+				<li>
+					<Link to="/posts">Posts</Link>
+				</li>
 			</ul>
 		</div>
 	);
